@@ -1,5 +1,6 @@
 body{
-				background-image: url('anime-naruto-pain-naruto-wallpaper-preview.jpg');
+				background-color: black;
+                                background-image: url('anime-naruto-pain-naruto-wallpaper-preview.jpg');
  );
 }
 b{
@@ -9,7 +10,7 @@ b{
 				blur: 0.px;
 }
 p{
-				color: Yellow;
+				color: blue;
 				font-size: 25px;
 }
 li{
