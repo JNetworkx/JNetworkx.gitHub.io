@@ -3,6 +3,8 @@ body{
                                 background-image: url('anime-naruto-pain-naruto-wallpaper-preview.jpg');
                                 background-repeat: no-repeat;
                                 background-size: cover;
+                                background-position: center;
+                                height: 100%;
  );
 }
 b{
