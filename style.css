@@ -1,7 +1,7 @@
 body{
 				background-color: black;
-                                background-image: norepeat;
                                 background-image: url('anime-naruto-pain-naruto-wallpaper-preview.jpg');
+                                background-repeat: no-repeat;
  );
 }
 b{
